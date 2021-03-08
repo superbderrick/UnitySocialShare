@@ -1,2 +1,2 @@
-# Analysis
-Analysis System 
+# DjangoMemo
+Django simple memo system 
